@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi there, I'm Eduardo Diniz! 👋
 
-<!--
-**D1n7z/D1n7z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Aspiring Data Scientist | Web Developer from São Paulo, Brazil
 
-Here are some ideas to get you started:
+I have a strong technical background from **IFSP** (Federal Institute of São Paulo) and I'm currently paving my way into **Computer Science at USP**, focusing on **Data Science and AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</a>
+
+**Web Development**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+</a>
+
+**Database**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</a>
+
+**Tools & IDEs**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git" />
+</a>
+
+**Data Science**
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="40" />
+
+---
+
+### 📊 About Me
+
+- 🎓 Graduating in **Internet Informatics at IFSP**.
+- 🔭 Working on personal projects involving **Data Analysis** and **Visualization**.
+- 🌱 Currently studying **Calculus, Linear Algebra, and Machine Learning algorithms**.
+- 📚 Reading: *"Estatística para Leigos"* and *"Pré-cálculo sem mistérios"*.
+- 🇬🇧 English Level: **B2 (Upper Intermediate)**.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/d1n7z">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=d1n7z&theme=algolia&show_icons=true" alt="Eduardo's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1n7z&theme=algolia&layout=compact" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI) -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ed.dinizsil@gmail.com)
