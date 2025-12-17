@@ -53,8 +53,8 @@ I have a strong technical background from **IFSP** (Federal Institute of São Pa
 
 <div align="center">
   <a href="https://github.com/d1n7z">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=d1n7z&theme=algolia&show_icons=true" alt="Eduardo's GitHub Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1n7z&theme=algolia&layout=compact" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=d1n7z&theme=algolia&show_icons=true&count_private=true" alt="Eduardo's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1n7z&theme=algolia&layout=compact&count_private=true" alt="Top Languages" />
   </a>
 </div>
 
