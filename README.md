@@ -1,8 +1,8 @@
 # Hi there, I'm Eduardo Diniz! 👋
 
-### 👨‍💻 Aspiring Data Scientist | Web Developer from São Paulo, Brazil
+### 📊 Aspiring Data Scientist | SI Student at USP
 
-I have a strong technical background from **IFSP** (Federal Institute of São Paulo) and I'm currently paving my way into **Computer Science at USP**, focusing on **Data Science and AI**.
+I am passionate about turning raw data into meaningful insights. With a strong technical background from **IFSP**, I am currently pursuing a Bachelor's in **Information Systems at the University of São Paulo (USP)**, focusing on **Data Science and AI**.
 
 ---
 
@@ -41,12 +41,11 @@ I have a strong technical background from **IFSP** (Federal Institute of São Pa
 
 ### 📊 About Me
 
-- 🎓 Graduating in **Internet Informatics at IFSP**.
-- 🔭 Working on personal projects involving **Data Analysis** and **Visualization**.
-- 🌱 Currently studying **Calculus, Linear Algebra, and Machine Learning algorithms**.
-- 📚 Reading: *"Estatística para Leigos"* and *"Pré-cálculo sem mistérios"*.
-- 🇬🇧 English Level: **B2 (Upper Intermediate)**.
-
+- 🎓 **Undergraduate:** B.S. in Information Systems at **USP (University of São Paulo)**.
+- 📜 **Technical Background:** Information Technology for the Internet at **IFSP**.
+- 🔭 **Current Focus:** Developing Exploratory Data Analysis (EDA) and predictive models.
+- 🌱 **Learning:** Calculus, Linear Algebra, and Machine Learning algorithms.
+- 🗣️ **Languages:** Portuguese (Native) | English (**B2 - Upper Intermediate**).
 ---
 
 ### 📈 GitHub Stats
